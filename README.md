@@ -1,2 +1,4 @@
-# Venera Payment Layer
-The Venera Payment Layer is a planned sharded Proof-of-Stake blockchain with ZK-SNARKs powered cross-shard verification.
+# Venera PoW Layer
+
+The Venera PoW layer derives from CryptoNote/Monero with burning implemented on protocol level and minor tweaks
+To be updated.
